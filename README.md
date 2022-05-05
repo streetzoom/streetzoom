@@ -19,7 +19,7 @@ Have read books such as:
 
 *   🌍  I'm based in Kyiv
 *   ✉️  You can contact me at [brilillja81@gmail.com](mailto:brilillja81@gmail.com)
-*   🧠  I'm learning C++, UE5, Vulcan API, GPU programming,
+*   🧠  I'm learning C++, UE5, Vulcan API, Lua, GPU programming,
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Inspired by computer technology and everything related to computers. Elon Musk & AMD fanboy. Interested in GPU programming, Computer science, Blockchain Technology.
 

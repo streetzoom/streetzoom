@@ -11,11 +11,6 @@ Basic mathematical and logical abilities;
 Upper-Intermediate spoken English; 
 Knowledge of computer architecture; 
 Knowledge of game engine architecture; 
-Have read books such as: 
-1.The C++ Programming Language 3rd Edition by Bjarne Stroustrup. 
-2.Game Programming Patterns by Bob Nystrom. 
-3.C++ For Dummies by Stephen R. Davis. 
-4.Programming: Introduction to the Profession (5 volumes) by A. V. Stolyarov. Responsible and easy to communicate team player and self-educational person;
 
 *   🌍  I'm based in Kyiv
 *   ✉️  You can contact me at [brilillja81@gmail.com](mailto:brilillja81@gmail.com)

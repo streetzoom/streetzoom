@@ -4,8 +4,8 @@ Hi 👋 My name is Ilya Bril
 Junior C++ & Unreal Engine
 --------------------------
 
-Basic knowledge of С++ language {STL, c++11}; 
-Basic knowledge of Unreal Engine 4 and Blueprints; 
+Knowledge of С++ language {STL, c++11}; 
+Knowledge of Unreal Engine 4/5 and Blueprints; 
 Knowledge of Data Structure and Algorithms; 
 Basic mathematical and logical abilities; 
 Upper-Intermediate spoken English; 

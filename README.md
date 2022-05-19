@@ -32,4 +32,4 @@ Knowledge of game engine architecture;
 ### Socials
                   
 <p align="left">
-                  <a href="https://discord.com/users/streetzoom#6441" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/illia-bril-366050237/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+                  <a href="https://discord.com/users/streetzoom#6441" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ilya-bril-366050237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSyNE5jqISqWV6PTPtO7XIg%3D%3D" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>

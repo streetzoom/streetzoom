@@ -16,7 +16,6 @@ Upper-Intermediate spoken English;
 
 Knowledge of computer architecture; 
 
-Knowledge of game engine architecture; 
 
 *   🌍  I'm based in Kyiv
 *   ✉️  You can contact me at [brilillja81@gmail.com](mailto:brilillja81@gmail.com)

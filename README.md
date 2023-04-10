@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Kyiv, Ukraine
 * ✉️  You can contact me at [brilillja81@gmail.com](mailto:brilillja81@gmail.com)
 * 🚀  I'm currently working on [Fractured Byte](http://fracturedbyte.com/)
-* 🧠  I'm learning Rendering, Python
+* 🧠  I'm learning Games rendering techniques, Python
 * 🤝  I'm open to collaborating on Exciting projects
 * ⚡  I am a 𝘀𝗲𝗹𝗳-𝘁𝗮𝘂𝗴𝗵𝘁 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿, specializing in the 𝗴𝗮𝗺𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗮𝗿𝗲𝗻𝗮.
 
